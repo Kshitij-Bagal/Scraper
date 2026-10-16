@@ -1,0 +1,6 @@
+{
+  "name": "ParseVisual - Visual Web Scraper",
+  "description": "Visual web scraping studio with interactive iframe element selection, DOM ancestry dock, multi-field grouping, and Cheerio extraction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
